@@ -31,7 +31,7 @@
    Click on any recipe name to open its tutorial video in your default browser.
 
 ## Preview
-![Interface](preview.png)
+<img src="preview.png" alt="Interface" width="300"/>
 
 
 
